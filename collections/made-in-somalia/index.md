@@ -1,7 +1,7 @@
 ---
 items:
   - sharafdin/yonode
-  - rasapp/markdown-master
+  - garaadgacmeed/markdown-master
   - duraanali/luuqad
   - sharafdin/better-react-js-code-snippet-extension
   - hanad124/furqan-constructions
@@ -10,7 +10,6 @@ items:
   - JUST-4EVER/CAZA-MART
   - hanad124/graadkaabPlatform
   - miirshe/Al-caasima-Hospital-Management-System
-  - rasapp/native-skeleton
   - miirshe/doctor-appointment
   - ENG-CJ/exam-complaining-app
   - hanad124/clothing-e-commerce
@@ -34,9 +33,11 @@ items:
   - aaqyaar/chatting-web-app
   - MoDev40/expense-tracker
   - MoDev40/budget-management
+  - soplang/soplang
+  - goobolabs/somali-language-standard
   
 display_name: Made in Somalia
-created_by: isasharafdin
+created_by: sharafdin
 image: made-in-somalia.png
 ---
 Open source projects built in or receiving significant contributions from Somalia :somalia:

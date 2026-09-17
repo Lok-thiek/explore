@@ -23,7 +23,7 @@ items:
  - SigNoz/signoz
  - uvdesk/community-skeleton
  - CRED-CLUB/synth-android
- - kkrishguptaa/reseter.css
+ - ikrishg/reseter.css
  - pupilfirst/pupilfirst
  - kadalu/kadalu
  - project-sunbird
@@ -46,7 +46,7 @@ items:
  - Jaysmito101/TerraForge3D
  - keploy/keploy
  - LambdaTest/test-at-scale
- - jformatter/json-formatter-crx
+ - arnav-kr/json-formatter
  - abhimanyu003/sttr
  - juspay/hyperswitch
  - nammayatri/nammayatri

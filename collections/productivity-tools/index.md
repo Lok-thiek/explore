@@ -43,6 +43,9 @@ items:
  - WofWca/jumpcutter
  - mnfst/manifest
  - AhmedOsman101/commit-sage-cli
+ - dusan-maintains/oss-maintenance-log
+ - ErezShahaf/Lore
+ - HMAKT99/UnTouchID
 display_name: Software productivity tools
 created_by: holman
 ---

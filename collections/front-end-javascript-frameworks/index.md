@@ -10,13 +10,13 @@ items:
  - spine/spine
  - vuejs/vue
  - Polymer/polymer
- - facebook/react
+ - react/react
  - finom/seemple
  - aurelia/framework
  - optimizely/nuclear-js
  - jashkenas/backbone
  - dojo/dojo
- - jorgebucaran/hyperapp
+ - hyperapp/hyperapp
  - riot/riot
  - Daemonite/material
  - lit/lit

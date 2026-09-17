@@ -59,7 +59,11 @@ items:
  - defold/defold
  - openfl/openfl
  - stride3d/stride
- - B4uti4github/choppy-js 
+ - B4uti4github/choppy-js
+ - Facepunch/sbox-public
+ - DaemonEngine/Daemon
+ - DarkPlacesEngine/DarkPlaces
+ - bXi/luminoveau
 display_name: Game Engines
 created_by: leereilly
 ---
